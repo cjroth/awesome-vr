@@ -114,6 +114,7 @@
 ) - CNET
 
 ## Resources
+- [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [Statistics and facts about Virtual Reality (VR)](http://www.statista.com/topics/2532/virtual-reality-vr/) - Statistica
 - [Virtual Reality 101](http://www.cnet.com/special-reports/vr101/) - CNET
 - [`google-vr` on Stack Overflow](http://stackoverflow.com/questions/tagged/google-vr)

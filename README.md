@@ -14,9 +14,16 @@
 - Oculus Rift [ [Oculus](https://www.oculus.com/en-us/rift/) | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Rift) ] \($600) - Requires gaming PC.
 - HTC Vive [ [HTC Vive](https://www.htcvive.com/us/) | [Wikipedia](https://en.wikipedia.org/wiki/HTC_Vive) ] \($800) - Requires gaming PC.
 - Sensics [ [Official](http://sensics.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Sensics) ] - Many different professional (not consumer) grade products.
+- Windows Mixed Reality: [ [Microsoft](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) | [Wikipedia](https://en.wikipedia.org/wiki/Windows_Mixed_Reality) ] - Desktop VR with lower PC requirements.
+	- HP WMR Headset
+	- Lenovo Explorer
+	- Samsung Odyssey
+	- ASUS WMR Headset
+	- Acer WMR Headset
+	- Dell Visor
 
 ## Complete VR Systems
-- Leap Motion Orion [ [Leap Motion](https://www.leapmotion.com/product/vr) ] - Uses Ocuclus Rift CV1 or HTC Vive and Unity.
+- Leap Motion Orion [ [Leap Motion](https://www.leapmotion.com/product/vr) ] - Uses Oculus Rift CV1 or HTC Vive and Unity.
 - Steam VR [  [Steam](http://store.steampowered.com/steamvr) ] - Uses HTC Vive as headset.
 
 ## Software
@@ -47,6 +54,7 @@
    - Sponsored by Razer and [Sensics](https://en.wikipedia.org/wiki/Sensics).
 
 ## Design Considerations
+
 - Don’t begin until the user indicates readiness
 - Mismatch between bodily cues and visual cues cause simulator sickness
 - User should tap button with VR icon to enter a scene
@@ -64,17 +72,23 @@
 - Use fixed objects to ground a user - eg putting them in a cockpit, virtual chair, etc. If they are sitting IRL then show them sitting in the VR.
 - Users should be active controllers in the app, not passengers
 - Try to always keep head tracking on in the app; if needed, show splash screens or 2D images in 3D space
+- Avoid creating sudden cuts to another scene if producing cinematics
+- Using spatial audio for attracting user attention is highly effective
+- Placing objects in scene closer than a perceived 6 inches from user's face will make them uncomfortable
+- Average human has a binocular field of view of ~114 degrees (about 1/3 of a circle)
 
 ## Applications
 
-- Gaming
-- Films/Live Events
 - Architecture/Real Estate/Urban Planning
-- Medicine
-- Training - Paramedics, flight simulation, surgeons, etc.
-- Tourism - Demonstrating a destination in 3D.
+- Collaboration - Screen share, meetings, using 3D renders for pinpointing issues.
+- Education - Interact with molecules in chemistry, view the Z-axis naturally in math, etc.
+- Films/Live Events
+- Gaming
+- Medical - Treatment for depression, anxiety, PTSD, phobias, etc.
 - Psychology/meditation
-- Social - Joining a 3D chat room, meeting, etc.
+- Social - Joining a 3D chat room, virtual living room, etc.
+- Tourism - Demonstrating a destination in 3D. Exploring museums, landmarks, and more.
+- Training - Paramedics, flight simulation, surgeons, welding, etc.
 
 ## People
 
@@ -84,6 +98,8 @@
 - Rob Crisco [ [Twitter](https://www.linkedin.com/in/robcrasco) ] - VR influencer; CyberAdept.
 - Bob O’Donnel [ [Twitter](https://twitter.com/bobodtech) ] - Tech researcher covering IoT, VR, AR, AI.
 - Nate Ralph [ [CNET](http://www.cnet.com/profiles/nateralph/#articles) ] - Covers VR for CNET.
+- Palmer Luckey - [ [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey) ] Inventor of Oculus Rift.
+- Jaron Lanier - [ [Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) ] Father of Virtual Reality.
 
 ## Major Players
 
@@ -95,10 +111,13 @@
 - Samsung
 - Mozilla
 - Sensics [ [Official](http://sensics.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Sensics) ] - Create professional-grade headsets.
+- Microsoft
 
 ## Media
 
 - CNET
+- [ [RoadToVR](https://www.roadtovr.com/) ]
+- [ [UploadVR](https://uploadvr.com/) ]
 
 ## Timeline
 
@@ -114,6 +133,7 @@
 ) - CNET
 
 ## Resources
+
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [Statistics and facts about Virtual Reality (VR)](http://www.statista.com/topics/2532/virtual-reality-vr/) - Statistica
 - [Virtual Reality 101](http://www.cnet.com/special-reports/vr101/) - CNET
@@ -132,14 +152,27 @@
 - [VR Best Practices by Oculus](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/)
 - [Playstation VR on Reddit](https://www.reddit.com/r/playstationvr/)
 
+## e-Learning
+
+- [ [Udacity](https://www.udacity.com/courses/all) ] - has $400 per term nanodegree, but also a free option for some courses
+- [ [Udemy](https://www.udemy.com/courses/search/?q=virtual%20reality) ] - has many cheap courses, generally $10 - 15 when on sale
+- [ [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) ] - has 3 course VR app development program that is free to take, $267 for certificate option
+- [ [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) ] - has 5 course VR track, free to take, but need a monthly subscription for the certificate
+
 ## Other Awesome VR Lists:
 
 - [Awesome VR](https://github.com/thejourneydude/awesome_vr)
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
 
-## Groups
-
 ## Startups
 
+- [ [StoryUP](http://www.story-up.com/) ] - Uses VR along with EEG for psychological treatment
+- [ [Neurable](http://neurable.com/) ] - Designs interfaces for using the brain as an input for VR
+
 ## Conferences
+
+- Mixed Reality Developer Conference [ [XRDC](http://www.xrdconf.com/) ]
+- Virtual Reality Developer Conference [ [VRDC](http://www.gdconf.com/vrdc/) ]
+
+## Groups

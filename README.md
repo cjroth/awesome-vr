@@ -11,8 +11,13 @@
 - Google Cardboard [ [Google](https://vr.google.com/cardboard/index.html) | [Wikipedia](https://en.wikipedia.org/wiki/Google_Cardboard) ] \($15+) - Allows you to turn your phone into a VR device.
 - Samsung Gear VR [ [Samsung](http://www.samsung.com/global/galaxy/wearables/gear-vr/) | [Oculus](https://www.oculus.com/en-us/gear-vr/) | [Wikipedia](https://en.wikipedia.org/wiki/Samsung_Gear_VR) ] \($100) - Powered by Oculus's technology; allows you to use a Samsung phone as VR device.
 - Sony Playstation VR [ [Sony (Blog)](http://blog.us.playstation.com/2016/03/15/playstation-vr-launching-october-for-399/) | [Wikipedia](https://en.wikipedia.org/wiki/PlayStation_VR) ] \($400) - Requires PlayStation 4; not quite as good graphics as Rift/Vive; launching October 13, 2016.
-- Oculus Rift [ [Oculus](https://www.oculus.com/en-us/rift/) | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Rift) ] \($600) - Requires gaming PC.
-- HTC Vive [ [HTC Vive](https://www.htcvive.com/us/) | [Wikipedia](https://en.wikipedia.org/wiki/HTC_Vive) ] \($800) - Requires gaming PC.
+- Oculus
+	- Oculus Rift [ [Rift](https://www.oculus.com/en-us/rift/) | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Rift) ] \($400) - Requires gaming PC.
+	- Oculus Go [ [Go](https://www.oculus.com/go/) ] \($200) - All-in-One headset with remote
+	- Oculus Quest [ [Quest](https://www.oculus.com/quest/) ] - Higher powered All-in-One headset with motion controllers
+- HTC
+	- HTC Vive [ [HTC Vive](https://www.htcvive.com/us/) | [Wikipedia](https://en.wikipedia.org/wiki/HTC_Vive) ] \($500) - Requires gaming PC.
+	- HTC Vive Pro [ [Vive Pro](https://www.vive.com/us/product/vive-pro/) ] \($800) - Higher powered counterpart of Vive
 - Sensics [ [Official](http://sensics.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Sensics) ] - Many different professional (not consumer) grade products.
 - Windows Mixed Reality: [ [Microsoft](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) | [Wikipedia](https://en.wikipedia.org/wiki/Windows_Mixed_Reality) ] - Desktop VR with lower PC requirements.
 	- HP WMR Headset
@@ -24,7 +29,7 @@
 
 ## Complete VR Systems
 - Leap Motion Orion [ [Leap Motion](https://www.leapmotion.com/product/vr) ] - Uses Oculus Rift CV1 or HTC Vive and Unity.
-- Steam VR [  [Steam](http://store.steampowered.com/steamvr) ] - Uses HTC Vive as headset.
+- Steam VR [  [Steam](http://store.steampowered.com/steamvr) ] - Uses HTC Vive, Oculus Rift and WMR headsets
 
 ## Software
 
@@ -32,6 +37,7 @@
     - C#, Javascript
     - [Google VR SDK](https://developers.google.com/vr/unity/) available
 - [Unreal Engine](https://www.unrealengine.com/vr-page)
+- [Godot](https://godotengine.org/article/godot-3-vr-and-ar-support)
 - [WebVR](https://webvr.info/)
 
     - Experimental Javascript API that provides access to VR devices in the browser
@@ -52,6 +58,14 @@
 - [Open Source Virtual Reality (OSVR)](https://en.wikipedia.org/wiki/Open_Source_Virtual_Reality)
    - A project to enable cross-compatibility of headsets and software.
    - Sponsored by Razer and [Sensics](https://en.wikipedia.org/wiki/Sensics).
+- [OpenXR](https://www.khronos.org/openxr)
+	- Khronos VR Initiative for standardized VR and AR
+- [Adobe Creative](https://www.adobe.com/creativecloud/video/360-vr-video-tools.html)
+	- Used for editing VR video and photos
+- [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview)
+	- Used for creating 3D models from map data that can be viewed in VR
+	- Viewed in VR using the [ArcGIS 360 VR App](https://www.arcgis.com/home/item.html?id=58094e8cf92644d28d5cb4a4fda3602e)
+		- Requires Samsung Gear VR
 
 ## Design Considerations
 
@@ -98,8 +112,8 @@
 - Rob Crisco [ [Twitter](https://www.linkedin.com/in/robcrasco) ] - VR influencer; CyberAdept.
 - Bob O’Donnel [ [Twitter](https://twitter.com/bobodtech) ] - Tech researcher covering IoT, VR, AR, AI.
 - Nate Ralph [ [CNET](http://www.cnet.com/profiles/nateralph/#articles) ] - Covers VR for CNET.
-- Palmer Luckey - [ [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey) ] Inventor of Oculus Rift.
-- Jaron Lanier - [ [Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) ] Father of Virtual Reality.
+- Palmer Luckey [ [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey) ] - Inventor of Oculus Rift.
+- Jaron Lanier [ [Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) ] - Father of Virtual Reality.
 
 ## Major Players
 
@@ -159,12 +173,6 @@
 - [ [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) ] - has 3 course VR app development program that is free to take, $267 for certificate option
 - [ [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) ] - has 5 course VR track, free to take, but need a monthly subscription for the certificate
 
-## Other Awesome VR Lists:
-
-- [Awesome VR](https://github.com/thejourneydude/awesome_vr)
-- [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
-- [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
-
 ## Startups
 
 - [ [StoryUP](http://www.story-up.com/) ] - Uses VR along with EEG for psychological treatment
@@ -175,4 +183,22 @@
 - Mixed Reality Developer Conference [ [XRDC](http://www.xrdconf.com/) ]
 - Virtual Reality Developer Conference [ [VRDC](http://www.gdconf.com/vrdc/) ]
 
-## Groups
+## Movies / Series
+
+- 1982 Tron
+- 1992 Lawnmower Man
+- 1996 Lawnmower Man 2
+- 1999 The Matrix
+- 2003 The Matrix Reloaded
+- 2003 The Matrix Revolutions
+- 2003 Spy Kids 3-D: Game Over
+- 2010 Tron Legacy
+- 2012 Sword Art Online
+- 2013 Log Horizon
+- 2018 Ready Player One
+
+## Other Awesome VR Lists
+
+- [Awesome VR](https://github.com/thejourneydude/awesome_vr)
+- [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
+- [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)

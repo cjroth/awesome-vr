@@ -14,10 +14,11 @@
 - Oculus
 	- Oculus Rift [ [Rift](https://www.oculus.com/en-us/rift/) | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Rift) ] \($400) - Requires gaming PC.
 	- Oculus Go [ [Go](https://www.oculus.com/go/) ] \($200) - All-in-One headset with remote
-	- Oculus Quest [ [Quest](https://www.oculus.com/quest/) ] - Higher powered All-in-One headset with motion controllers
+	- Oculus Quest [ [Quest](https://www.oculus.com/quest/) ] \($400) - Higher powered All-in-One headset with motion controllers
 - HTC
 	- HTC Vive [ [HTC Vive](https://www.htcvive.com/us/) | [Wikipedia](https://en.wikipedia.org/wiki/HTC_Vive) ] \($500) - Requires gaming PC.
 	- HTC Vive Pro [ [Vive Pro](https://www.vive.com/us/product/vive-pro/) ] \($800) - Higher powered counterpart of Vive
+	- HTC Vive Focus [ [Vive Focus](https://www.vive.com/cn/product/vive-focus-en/)] - All-in-One headset with remote
 - Sensics [ [Official](http://sensics.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Sensics) ] - Many different professional (not consumer) grade products.
 - Windows Mixed Reality: [ [Microsoft](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) | [Wikipedia](https://en.wikipedia.org/wiki/Windows_Mixed_Reality) ] - Desktop VR with lower PC requirements.
 	- HP WMR Headset
@@ -168,20 +169,23 @@
 
 ## e-Learning
 
-- [ [Udacity](https://www.udacity.com/courses/all) ] - has $400 per term nanodegree, but also a free option for some courses
-- [ [Udemy](https://www.udemy.com/courses/search/?q=virtual%20reality) ] - has many cheap courses, generally $10 - 15 when on sale
-- [ [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) ] - has 3 course VR app development program that is free to take, $267 for certificate option
-- [ [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) ] - has 5 course VR track, free to take, but need a monthly subscription for the certificate
+- [Udacity](https://www.udacity.com/courses/all) - has $400 per term nanodegree, but also a free option for some courses
+- [Udemy](https://www.udemy.com/courses/search/?q=virtual%20reality) - has many cheap courses, generally $10 - 15 when on sale
+- [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) - has 3 course VR app development program that is free to take, $267 for certificate option
+- [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) - has 5 course VR track, free to take, but need a monthly subscription for the certificate
 
 ## Startups
 
-- [ [StoryUP](http://www.story-up.com/) ] - Uses VR along with EEG for psychological treatment
-- [ [Neurable](http://neurable.com/) ] - Designs interfaces for using the brain as an input for VR
+- [StoryUP](http://www.story-up.com/) - Uses VR along with EEG for mindfulness
+- [Neurable](http://neurable.com/) - Designs interfaces for using the brain as an input for VR
 
 ## Conferences
 
-- Mixed Reality Developer Conference [ [XRDC](http://www.xrdconf.com/) ]
-- Virtual Reality Developer Conference [ [VRDC](http://www.gdconf.com/vrdc/) ]
+- [Mixed Reality Developer Conference](http://www.xrdconf.com/)
+- [Virtual Reality Developer Conference](http://www.gdconf.com/vrdc/)
+- [SIGGRAPH](https://www.siggraph.org/)
+- [Oculus Connect](https://www.oculusconnect.com/)
+
 
 ## Movies / Series
 
@@ -202,3 +206,4 @@
 - [Awesome VR](https://github.com/thejourneydude/awesome_vr)
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
+- [VR Awesome](https://github.com/Vytek/VR-Awesome)

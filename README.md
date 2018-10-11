@@ -37,8 +37,13 @@
 - [Unity](https://unity3d.com/learn/tutorials/topics/virtual-reality)
     - C#, Javascript
     - [Google VR SDK](https://developers.google.com/vr/unity/) available
+    - [SteamVR plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647) available
+    - [Windows Mixed Reality](https://unity3d.com/partners/microsoft/mixed-reality) built-in support
 - [Unreal Engine](https://www.unrealengine.com/vr-page)
+	- C++, Blueprint
 - [Godot](https://godotengine.org/article/godot-3-vr-and-ar-support)
+	- GDScript, C#, C++, VisualScript
+	- 3rd party plugins for Python, Nim and D
 - [WebVR](https://webvr.info/)
 
     - Experimental Javascript API that provides access to VR devices in the browser

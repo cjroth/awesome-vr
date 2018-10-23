@@ -8,30 +8,156 @@
 
 ## Headsets
 
-- Google Cardboard [ [Google](https://vr.google.com/cardboard/index.html) | [Wikipedia](https://en.wikipedia.org/wiki/Google_Cardboard) ] \($15+) - Allows you to turn your phone into a VR device.
-- Samsung Gear VR [ [Samsung](http://www.samsung.com/global/galaxy/wearables/gear-vr/) | [Oculus](https://www.oculus.com/en-us/gear-vr/) | [Wikipedia](https://en.wikipedia.org/wiki/Samsung_Gear_VR) ] \($100) - Powered by Oculus's technology; allows you to use a Samsung phone as VR device.
-- Sony Playstation VR [ [Sony (Blog)](http://blog.us.playstation.com/2016/03/15/playstation-vr-launching-october-for-399/) | [Wikipedia](https://en.wikipedia.org/wiki/PlayStation_VR) ] \($400) - Requires PlayStation 4; not quite as good graphics as Rift/Vive; launching October 13, 2016.
-- Oculus Rift [ [Oculus](https://www.oculus.com/en-us/rift/) | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Rift) ] \($600) - Requires gaming PC.
-- HTC Vive [ [HTC Vive](https://www.htcvive.com/us/) | [Wikipedia](https://en.wikipedia.org/wiki/HTC_Vive) ] \($800) - Requires gaming PC.
-- Sensics [ [Official](http://sensics.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Sensics) ] - Many different professional (not consumer) grade products.
-- Windows Mixed Reality: [ [Microsoft](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) | [Wikipedia](https://en.wikipedia.org/wiki/Windows_Mixed_Reality) ] - Desktop VR with lower PC requirements.
-	- HP WMR Headset
-	- Lenovo Explorer
-	- Samsung Odyssey
-	- ASUS WMR Headset
-	- Acer WMR Headset
-	- Dell Visor
+> There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF. Standalone headsets do not require an external device since everything needed is built into the headset itself. Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
+
+<table>
+	<tr>
+		<th>Headset</th>
+		<th>Type</th>
+		<th>Price (Lowest)</th>
+		<th>Resources</th>
+	</tr>
+	<tr>
+		<td>Google Cardboard</td>
+		<td>Mobile</td>
+		<td>$15</td>
+		<td>
+			<a href="https://vr.google.com/cardboard/index.html">Google</a>
+			<a href="https://en.wikipedia.org/wiki/Google_Cardboard">Wikipedia</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Samsung Gear VR</td>
+		<td>Mobile</td>
+		<td>$100</td>
+		<td>
+			<a href="http://www.samsung.com/global/galaxy/wearables/gear-vr/">Samsung</a>
+			<a href="https://www.oculus.com/en-us/gear-vr/">Oculus</a>
+			<a href="https://en.wikipedia.org/wiki/Samsung_Gear_VR">Wikipedia</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Sony Playstation VR</td>
+		<td>Desktop (PS4)</td>
+		<td>$400</td>
+		<td>
+			<a href="http://blog.us.playstation.com/2016/03/15/playstation-vr-launching-october-for-399/">Sony</a>
+			<a href="https://en.wikipedia.org/wiki/PlayStation_VR">Wikipedia</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Oculus Rift</td>
+		<td>Desktop</td>
+		<td>$400</td>
+		<td>
+			<a href="https://www.oculus.com/en-us/rift/">Rift</a>
+			<a href="https://en.wikipedia.org/wiki/Oculus_Rift">Wikipedia</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Oculus Quest</td>
+		<td>Standalone (Desktop)</td>
+		<td>$400</td>
+		<td>
+			<a href="https://www.oculus.com/quest/">Quest</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Oculus Go</td>
+		<td>Standalone (Mobile)</td>
+		<td>$200</td>
+		<td>
+			<a href="https://www.oculus.com/go/">Go</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Htc Vive</td>
+		<td>Desktop</td>
+		<td>$500</td>
+		<td>
+			<a href="https://www.htcvive.com/us/">Htc Vive</a>
+			<a href="https://en.wikipedia.org/wiki/HTC_Vive">Wikipedia</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Htc Vive Pro</td>
+		<td>Desktop</td>
+		<td>$800</td>
+		<td>
+			<a href="https://www.vive.com/us/product/vive-pro/">Vive Pro</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Htc Vive Focus</td>
+		<td>Standalone (Desktop)</td>
+		<td>TBA</td>
+		<td>
+			<a href="https://www.vive.com/cn/product/vive-focus-en/">Vive Focus</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Sensics</td>
+		<td>Desktop</td>
+		<td>Nonconsumer</td>
+		<td>
+			<a href="http://sensics.com/">Sensics</a>
+			<a href="https://en.wikipedia.org/wiki/Sensics">Wikipedia</a>
+		</td>
+	</tr>
+	<tr>
+		<td>HP WMR</td>
+		<td>Desktop</td>
+		<td>$259</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Lenovo Explorer</td>
+		<td>Desktop</td>
+		<td>$199</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Samsung Odyssey</td>
+		<td>Desktop</td>
+		<td>$499</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>ASUS HC102</td>
+		<td>Desktop</td>
+		<td>$423</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Acer WMR</td>
+		<td>Desktop</td>
+		<td>$246</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Dell Visor</td>
+		<td>Desktop</td>
+		<td>$289</td>
+		<td></td>
+	</tr>
+</table>
 
 ## Complete VR Systems
 - Leap Motion Orion [ [Leap Motion](https://www.leapmotion.com/product/vr) ] - Uses Oculus Rift CV1 or HTC Vive and Unity.
-- Steam VR [  [Steam](http://store.steampowered.com/steamvr) ] - Uses HTC Vive as headset.
+- Steam VR [  [Steam](http://store.steampowered.com/steamvr) ] - Uses HTC Vive, Oculus Rift and WMR headsets
 
 ## Software
 
 - [Unity](https://unity3d.com/learn/tutorials/topics/virtual-reality)
     - C#, Javascript
     - [Google VR SDK](https://developers.google.com/vr/unity/) available
+    - [SteamVR plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647) available
+    - [Windows Mixed Reality](https://unity3d.com/partners/microsoft/mixed-reality) built-in support
 - [Unreal Engine](https://www.unrealengine.com/vr-page)
+	- C++, Blueprint
+- [Godot](https://godotengine.org/article/godot-3-vr-and-ar-support)
+	- GDScript, C#, C++, VisualScript
+	- 3rd party plugins for Python, Nim and D
 - [WebVR](https://webvr.info/)
 
     - Experimental Javascript API that provides access to VR devices in the browser
@@ -52,6 +178,14 @@
 - [Open Source Virtual Reality (OSVR)](https://en.wikipedia.org/wiki/Open_Source_Virtual_Reality)
    - A project to enable cross-compatibility of headsets and software.
    - Sponsored by Razer and [Sensics](https://en.wikipedia.org/wiki/Sensics).
+- [OpenXR](https://www.khronos.org/openxr)
+	- Khronos VR Initiative for standardized VR and AR
+- [Adobe Creative](https://www.adobe.com/creativecloud/video/360-vr-video-tools.html)
+	- Used for editing VR video and photos
+- [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview)
+	- Used for creating 3D models from map data that can be viewed in VR
+	- Viewed in VR using the [ArcGIS 360 VR App](https://www.arcgis.com/home/item.html?id=58094e8cf92644d28d5cb4a4fda3602e)
+		- Requires Samsung Gear VR
 
 ## Design Considerations
 
@@ -98,8 +232,8 @@
 - Rob Crisco [ [Twitter](https://www.linkedin.com/in/robcrasco) ] - VR influencer; CyberAdept.
 - Bob O’Donnel [ [Twitter](https://twitter.com/bobodtech) ] - Tech researcher covering IoT, VR, AR, AI.
 - Nate Ralph [ [CNET](http://www.cnet.com/profiles/nateralph/#articles) ] - Covers VR for CNET.
-- Palmer Luckey - [ [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey) ] Inventor of Oculus Rift.
-- Jaron Lanier - [ [Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) ] Father of Virtual Reality.
+- Palmer Luckey [ [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey) ] - Inventor of Oculus Rift.
+- Jaron Lanier [ [Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) ] - Father of Virtual Reality.
 
 ## Major Players
 
@@ -154,25 +288,41 @@
 
 ## e-Learning
 
-- [ [Udacity](https://www.udacity.com/courses/all) ] - has $400 per term nanodegree, but also a free option for some courses
-- [ [Udemy](https://www.udemy.com/courses/search/?q=virtual%20reality) ] - has many cheap courses, generally $10 - 15 when on sale
-- [ [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) ] - has 3 course VR app development program that is free to take, $267 for certificate option
-- [ [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) ] - has 5 course VR track, free to take, but need a monthly subscription for the certificate
+- [Udacity](https://www.udacity.com/courses/all) - has $400 per term nanodegree, but also a free option for some courses
+- [Udemy](https://www.udemy.com/courses/search/?q=virtual%20reality) - has many cheap courses, generally $10 - 15 when on sale
+- [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) - has 3 course VR app development program that is free to take, $267 for certificate option
+- [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) - has 5 course VR track, free to take, but need a monthly subscription for the certificate
 
-## Other Awesome VR Lists:
+## Startups
+
+- [StoryUP](http://www.story-up.com/) - Uses VR along with EEG for mindfulness
+- [Neurable](http://neurable.com/) - Designs interfaces for using the brain as an input for VR
+
+## Conferences
+
+- [Mixed Reality Developer Conference](http://www.xrdconf.com/)
+- [Virtual Reality Developer Conference](http://www.gdconf.com/vrdc/)
+- [SIGGRAPH](https://www.siggraph.org/)
+- [Oculus Connect](https://www.oculusconnect.com/)
+
+
+## Movies / Series
+
+- 1982 Tron
+- 1992 Lawnmower Man
+- 1996 Lawnmower Man 2
+- 1999 The Matrix
+- 2003 The Matrix Reloaded
+- 2003 The Matrix Revolutions
+- 2003 Spy Kids 3-D: Game Over
+- 2010 Tron Legacy
+- 2012 Sword Art Online
+- 2013 Log Horizon
+- 2018 Ready Player One
+
+## Other Awesome VR Lists
 
 - [Awesome VR](https://github.com/thejourneydude/awesome_vr)
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
-
-## Startups
-
-- [ [StoryUP](http://www.story-up.com/) ] - Uses VR along with EEG for psychological treatment
-- [ [Neurable](http://neurable.com/) ] - Designs interfaces for using the brain as an input for VR
-
-## Conferences
-
-- Mixed Reality Developer Conference [ [XRDC](http://www.xrdconf.com/) ]
-- Virtual Reality Developer Conference [ [VRDC](http://www.gdconf.com/vrdc/) ]
-
-## Groups
+- [VR Awesome](https://github.com/Vytek/VR-Awesome)

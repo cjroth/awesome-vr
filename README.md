@@ -151,6 +151,7 @@
 - [VR Slack Channel](https://vrslack.typeform.com/to/mKpqkA) - Created by Eva Hoerth.
 - [VR Best Practices by Oculus](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/)
 - [Playstation VR on Reddit](https://www.reddit.com/r/playstationvr/)
+- [Explore Virtual Reality](https://kandi.openweaver.com/explore/augmented-reality-virtual-reality) - Explore a curated list of VR popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 ## e-Learning
 
